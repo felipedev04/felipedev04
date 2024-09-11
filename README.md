@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipedev04&label=Profile%20views&color=0e75b6&style=flat" alt="felipedev04" /> </p>
 
-- 🌱 Eu estou estuadando no momento: **PHP**
+- 🌱 Estudando **PHP**
 
 <h3 align="left"></h3>
 <p align="left">
