@@ -9,7 +9,7 @@
 
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/felipedev04)
 
-<div size='20px'> Meu nome é Felipe. Bem-vindo ao meu perfil! :smile: 
+<div size='20px'> Me chamo Felipe. Bem-vindo ao meu perfil! :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
