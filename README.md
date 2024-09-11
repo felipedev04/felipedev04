@@ -7,7 +7,6 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/felipedev04)
 
 <div size='20px'> Meu nome é Felipe. Bem-vindo ao meu perfil! :smile: 
